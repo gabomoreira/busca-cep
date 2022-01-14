@@ -14,9 +14,7 @@
 
 Para usar Busca Cep, clique no link abaixo:
 
-```
 [![Abrir com Netlifly]](https://busca-cep-react.netlify.app/)
-```
 
 ## 🤝 Colaborador
 
